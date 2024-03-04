@@ -1,4 +1,4 @@
-### hello, nice to see you here! 👋
+### nice to see you here! 👋
 
 Hello! I'm Maria Cruz, an economist working as a data analyst and researcher for @Palver and I love to plot network graphs 💞
 
