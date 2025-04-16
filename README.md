@@ -1,7 +1,7 @@
-### nice to see you here! 👋
+👋
 
-Hello! I'm Maria Cruz, an economist and data scientist who loves to plot network graphs
+I'm Maria, a PhD candidate in Economics at USP and previous data scientist
 
-- 🔭 In my research, I connect social learning theories with social media data
+- 🔭 In my research, I connect social learning theories with networks data
 - 🤔 here, besides work, I share some of my undergrad and personal projects
 - 📫 you can reach me sending an e-mail to mavtcrz@gmail.com
